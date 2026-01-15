@@ -11,7 +11,7 @@ This project demonstrates dynamic pricing strategies, availability handling, and
 👉 **Loom / Demo Video:**  
 
 
-([ https://www.loom.com/share/xxxxxxxx](https://1drv.ms/v/c/b734ce370bd67c45/IQDM5DMv0kw3RLnIVOQeTvaQAT6Yg0ATdONO4U17Sirv0BQ?e=RWUrRi))
+([ https://www.loom.com/share/Scrrenrecording](https://1drv.ms/v/c/b734ce370bd67c45/IQDM5DMv0kw3RLnIVOQeTvaQAT6Yg0ATdONO4U17Sirv0BQ?e=RWUrRi))
 
 ---
 
