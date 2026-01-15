@@ -49,6 +49,22 @@ Pricing is calculated dynamically through a dedicated **service layer**.
 
 ---
 
+### API Endpoints
+POST /categories
+
+GET /categories
+
+POST /items
+
+GET /items
+
+GET /items/:id/price
+
+GET /items/:id/availability
+
+POST /bookings
+API testing can be done using Postman.
+
 ## 🛠 Tech Stack
 
 - **Backend:** Node.js, Express
@@ -66,9 +82,13 @@ Pricing is calculated dynamically through a dedicated **service layer**.
 
 ---
 
+### **Backend Available At**
+```bash
+http://localhost:5000
+
+
 ### ▶️ Start the Application
 ```bash
 docker compose up --build
 
-### Stop the Application 
-```bash 
+
