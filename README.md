@@ -1,8 +1,17 @@
 # Guestara Backend Assignment
 
-Backend system for a hospitality upsell & booking platform, built using **Node.js, Express, MongoDB**, and **Docker**.
+Backend system for a hospitality upsell & booking platform, built using **Node.js, Express, MongoDB, and Docker**.
 
-This project demonstrates dynamic pricing strategies, availability handling, and booking with double-booking prevention.
+This project demonstrates dynamic pricing strategies, availability handling, and booking with **double-booking prevention**.
+
+---
+
+## 🎥 Video Walkthrough
+
+👉 **Loom / Demo Video:**  
+PASTE YOUR VIDEO LINK HERE
+
+(Example: https://www.loom.com/share/xxxxxxxx)
 
 ---
 
@@ -15,18 +24,20 @@ This project demonstrates dynamic pricing strategies, availability handling, and
 ### ✅ Item Management
 - Create items under categories
 - Search, filter, sort, and paginate items
-- Items can have pricing and availability configurations
+- Items support pricing and availability configurations
+
+---
 
 ### ✅ Pricing Engine (Core Feature)
 The system supports multiple pricing strategies:
 
-- **STATIC** – Fixed base price
-- **DISCOUNTED** – Flat or percentage-based discount
-- **TIERED** – Price varies based on quantity
-- **DYNAMIC** – Time-based pricing using time windows
-- **COMPLIMENTARY** – Free items (price always zero)
+- **STATIC** – Fixed base price  
+- **DISCOUNTED** – Flat or percentage-based discount  
+- **TIERED** – Price varies based on quantity  
+- **DYNAMIC** – Time-based pricing using time windows  
+- **COMPLIMENTARY** – Free items (price always zero)  
 
-Pricing is calculated dynamically through a dedicated service layer.
+Pricing is calculated dynamically through a dedicated **service layer**.
 
 ---
 
@@ -53,6 +64,11 @@ Pricing is calculated dynamically through a dedicated service layer.
 - Docker
 - Docker Compose
 
-### Start the application
+---
+
+### ▶️ Start the Application
 ```bash
 docker compose up --build
+
+### Stop the Application 
+```bash 
