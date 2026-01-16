@@ -89,6 +89,6 @@ http://localhost:5000
 
 ### ▶️ Start the Application
 ```bash
-docker compose up --build
+npm run dev
 
 
